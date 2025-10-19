@@ -1,0 +1,239 @@
+{
+  "updateTime": 638964675808604695,
+  "version": "0.0.1",
+  "fileList": [
+    "musics.ab",
+    "texts.ab",
+    "arts/animations.ab",
+    "arts/enemy_img.ab",
+    "arts/enemy_mats.ab",
+    "arts/fonts.ab",
+    "arts/img.ab",
+    "arts/maps.ab",
+    "arts/mats.ab",
+    "arts/mesh.ab",
+    "arts/skybox.ab",
+    "arts/ui_img.ab",
+    "battle/gameprefabs.ab",
+    "battle/prefab/enemies_10_12.ab",
+    "battle/prefab/enemies_13_15.ab",
+    "battle/prefab/enemies_20_90.ab",
+    "effects/imgs.ab",
+    "effects/mats.ab",
+    "effects/mesh.ab",
+    "effects/misc.ab",
+    "effects/prefabs.ab",
+    "misc/enemy_text.ab",
+    "misc/shaders.ab",
+    "scenes/emptyscene.ab",
+    "scenes/gamescene.ab",
+    "scenes/level_day.ab",
+    "scenes/level_evening.ab",
+    "scenes/level_night.ab",
+    "scenes/systemscene.ab",
+    "scenes/themescene.ab",
+    "scenes/level_day/lightingdata.ab",
+    "scenes/level_evening/lightingdata.ab",
+    "scenes/level_night/lightingdata.ab"
+  ],
+  "fileData": {
+    "musics.ab": {
+      "filename": "musics.ab",
+      "filePath": "musics.ab",
+      "fileSize": 9277477,
+      "fileHash": "1340521c0fc834592ca85d0651ee459a2cbaeb546695a2ba4e17ea148b8a1e23319863d9"
+    },
+    "texts.ab": {
+      "filename": "texts.ab",
+      "filePath": "texts.ab",
+      "fileSize": 6797,
+      "fileHash": "49bb7f66c94fdcf050441962d4b9b1c677c91f1efcd9e19d8aa1a3181b766e9e24f33e56"
+    },
+    "arts/animations.ab": {
+      "filename": "animations.ab",
+      "filePath": "arts/animations.ab",
+      "fileSize": 15351,
+      "fileHash": "4f6af6076c1bacd033dadebfc06c050b1c4f34a64e0d1a3035e4fe774242a704e1607cae"
+    },
+    "arts/enemy_img.ab": {
+      "filename": "enemy_img.ab",
+      "filePath": "arts/enemy_img.ab",
+      "fileSize": 1004381,
+      "fileHash": "62daec63af0dd0aeea9f00bfee45cad4f42bd545ffc765c2258db84e4a2c6b8bad94c0b2"
+    },
+    "arts/enemy_mats.ab": {
+      "filename": "enemy_mats.ab",
+      "filePath": "arts/enemy_mats.ab",
+      "fileSize": 22984,
+      "fileHash": "92e0679b9b051bd376e23588246e386096aea3f0598723ded4c0af04ec3372e13c39a493"
+    },
+    "arts/fonts.ab": {
+      "filename": "fonts.ab",
+      "filePath": "arts/fonts.ab",
+      "fileSize": 22507780,
+      "fileHash": "e8f07270c408294df081e9a6d5272eeb2060ccf42baa1704e709775289bd9a0120045dd2"
+    },
+    "arts/img.ab": {
+      "filename": "img.ab",
+      "filePath": "arts/img.ab",
+      "fileSize": 54058,
+      "fileHash": "e1f87edbb2295e3277131c6483f5eabe2db446242a6d1590561127303e92c0a57b9c3474"
+    },
+    "arts/maps.ab": {
+      "filename": "maps.ab",
+      "filePath": "arts/maps.ab",
+      "fileSize": 1669066,
+      "fileHash": "f75486a65b942f4b474e29a019750a8d788788bb23eeddca1ca9e6c74fc02c016ebfd00c"
+    },
+    "arts/mats.ab": {
+      "filename": "mats.ab",
+      "filePath": "arts/mats.ab",
+      "fileSize": 50329,
+      "fileHash": "997fd50ecbb163c334e9cd6fc6570dd1bcea2542b5dd49379bac25ac587249acdf6f2527"
+    },
+    "arts/mesh.ab": {
+      "filename": "mesh.ab",
+      "filePath": "arts/mesh.ab",
+      "fileSize": 456215,
+      "fileHash": "ed4c9d180ad2eff55d62597f8282b31c5e2dfc76d595ce8d1439f253e68e276a86cfac9f"
+    },
+    "arts/skybox.ab": {
+      "filename": "skybox.ab",
+      "filePath": "arts/skybox.ab",
+      "fileSize": 1142019,
+      "fileHash": "5e817d3dd310c9311525cc9c0fca2aed664a322e9f84233d5507a93fbdd9fdce4fd0170a"
+    },
+    "arts/ui_img.ab": {
+      "filename": "ui_img.ab",
+      "filePath": "arts/ui_img.ab",
+      "fileSize": 530847,
+      "fileHash": "7d194b0fd5a5979ea71a2c9ed79c94f27a5d040265f929c7a65531e694bb558943344dae"
+    },
+    "battle/gameprefabs.ab": {
+      "filename": "gameprefabs.ab",
+      "filePath": "battle/gameprefabs.ab",
+      "fileSize": 1323087,
+      "fileHash": "303b522cb1dc61250b5e60f5cadbc4f961101e89f4e5a0eedc1a50c3d0ad2755769e94ea"
+    },
+    "battle/prefab/enemies_10_12.ab": {
+      "filename": "enemies_10_12.ab",
+      "filePath": "battle/prefab/enemies_10_12.ab",
+      "fileSize": 32943,
+      "fileHash": "9f7f8afb16e635c38ed724f21f91a6e1164d6ed00d0f7872c344a9bc5a9dfe906ca5d3a1"
+    },
+    "battle/prefab/enemies_13_15.ab": {
+      "filename": "enemies_13_15.ab",
+      "filePath": "battle/prefab/enemies_13_15.ab",
+      "fileSize": 23233,
+      "fileHash": "ebdf70bc407a43242fc70c4d431698f986ed1843507cb25d53820511669b191ad67311f6"
+    },
+    "battle/prefab/enemies_20_90.ab": {
+      "filename": "enemies_20_90.ab",
+      "filePath": "battle/prefab/enemies_20_90.ab",
+      "fileSize": 17606,
+      "fileHash": "0648020c4e3e568c7a080e38db85611325bbe645b3d5212b4f6093184d2e6f5cf078f081"
+    },
+    "effects/imgs.ab": {
+      "filename": "imgs.ab",
+      "filePath": "effects/imgs.ab",
+      "fileSize": 449911,
+      "fileHash": "1a62ca808a89f9ee42b7721dfce520b219ac6b2b2fbe7c0b1c611246df86ef6fef04dcfb"
+    },
+    "effects/mats.ab": {
+      "filename": "mats.ab",
+      "filePath": "effects/mats.ab",
+      "fileSize": 23083,
+      "fileHash": "95fef15fcbfa209545874eab589a33fcb6964ced2e8ffeaa54b08e30b613b8a0fc6bdd88"
+    },
+    "effects/mesh.ab": {
+      "filename": "mesh.ab",
+      "filePath": "effects/mesh.ab",
+      "fileSize": 21274,
+      "fileHash": "cfee81ed09a7b29231d0a45b0a12e7047119eacbf7b3cb12c1ff35d3935d7b1d92072c34"
+    },
+    "effects/misc.ab": {
+      "filename": "misc.ab",
+      "filePath": "effects/misc.ab",
+      "fileSize": 10865,
+      "fileHash": "eb889ee285e277dd8c19558e26ebb9ceec572b901b3a90ed7486370e0e08afbf4077f1f8"
+    },
+    "effects/prefabs.ab": {
+      "filename": "prefabs.ab",
+      "filePath": "effects/prefabs.ab",
+      "fileSize": 46446,
+      "fileHash": "700308a43b24bf8a8ccd67094d603c7e893d1001fa7fdf5e6b484f3c6c4d218221582a72"
+    },
+    "misc/enemy_text.ab": {
+      "filename": "enemy_text.ab",
+      "filePath": "misc/enemy_text.ab",
+      "fileSize": 882528,
+      "fileHash": "5dfe6794901ed3f7aabe37709ae127e4c3793c1552f57267ec77bc55d8021ef19bb0e73c"
+    },
+    "misc/shaders.ab": {
+      "filename": "shaders.ab",
+      "filePath": "misc/shaders.ab",
+      "fileSize": 292350,
+      "fileHash": "ea02256ec99d905156d098828bd5c71f8b5885d04292ca419d4c087676a8bdd19b35179e"
+    },
+    "scenes/emptyscene.ab": {
+      "filename": "emptyscene.ab",
+      "filePath": "scenes/emptyscene.ab",
+      "fileSize": 109977,
+      "fileHash": "8434091919adde770ae8bddc0f45e750268a5144f1fff26467646b1b29e4b77b8a5d05f1"
+    },
+    "scenes/gamescene.ab": {
+      "filename": "gamescene.ab",
+      "filePath": "scenes/gamescene.ab",
+      "fileSize": 109976,
+      "fileHash": "f00ca813bc9540aed963a003574c71d2ef9bbe28e39b64ab9890a236bc12de8da4a1a509"
+    },
+    "scenes/level_day.ab": {
+      "filename": "level_day.ab",
+      "filePath": "scenes/level_day.ab",
+      "fileSize": 780275,
+      "fileHash": "002551e300c186e6d3c767affd5395af144f1ba60eb43eaedb53623c2021973f0cf28761"
+    },
+    "scenes/level_evening.ab": {
+      "filename": "level_evening.ab",
+      "filePath": "scenes/level_evening.ab",
+      "fileSize": 782349,
+      "fileHash": "623d00e67254d6c312cb4179fc0a3f6943032d6f7025e9ec45782b6877b874d3ca51259e"
+    },
+    "scenes/level_night.ab": {
+      "filename": "level_night.ab",
+      "filePath": "scenes/level_night.ab",
+      "fileSize": 783750,
+      "fileHash": "88a6dff5154cb3427ed55ebe85db219ca7ef2c91232b41dc6ae03e72040ab6e19b407742"
+    },
+    "scenes/systemscene.ab": {
+      "filename": "systemscene.ab",
+      "filePath": "scenes/systemscene.ab",
+      "fileSize": 44933,
+      "fileHash": "c92b63f74319e79694a59844b2c8092e62721eb67a43896c1a66f5215bf7e1ab658e3d54"
+    },
+    "scenes/themescene.ab": {
+      "filename": "themescene.ab",
+      "filePath": "scenes/themescene.ab",
+      "fileSize": 131761,
+      "fileHash": "87060a54c45adfdec133e582eb4d70393e9b20f54d3389e208d1bfd115d73b9fa56c8727"
+    },
+    "scenes/level_day/lightingdata.ab": {
+      "filename": "lightingdata.ab",
+      "filePath": "scenes/level_day/lightingdata.ab",
+      "fileSize": 2230653,
+      "fileHash": "dfcc232dc47d9f224dc1fdf80762e9ed15a8858d489a6f8275e9455ed862f5b321278fc0"
+    },
+    "scenes/level_evening/lightingdata.ab": {
+      "filename": "lightingdata.ab",
+      "filePath": "scenes/level_evening/lightingdata.ab",
+      "fileSize": 2259461,
+      "fileHash": "2107def9b78f0d8540eea2bfdec02a58289790ec8b12a6b53c610179e08794b902759085"
+    },
+    "scenes/level_night/lightingdata.ab": {
+      "filename": "lightingdata.ab",
+      "filePath": "scenes/level_night/lightingdata.ab",
+      "fileSize": 2093027,
+      "fileHash": "e4dca1190708ea73a4eff63b2ecf2db26a85c6f46e635cedbfa6e303b82295f14b60b2c6"
+    }
+  }
+}
